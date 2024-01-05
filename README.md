@@ -1,6 +1,6 @@
 # ChangeLogger
 
-ChangeLogger is a discord bot created to make it easier and more consistant creating changelogs on discord whether its for personal project, game servers, etc. we got you covered
+ChangeLogger is a discord bot created to make it easier and more consistant creating changelogs on discord whether its for personal project, game servers, etc. we got you covered. Because this project is so new currently the only way to use this bot is to run it yourself.
 
 ## Install Locally
 
