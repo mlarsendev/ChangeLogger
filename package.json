@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "start": "node .",
     "build": "node src/deploy-commands.js",
     "dev": "nodemon ."
   },
